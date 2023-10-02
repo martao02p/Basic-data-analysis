@@ -2,8 +2,6 @@
 
 **Autor:** Marta Szymańska
 
-**Indeks:** 151481
-
 ## Opis zbioru danych
 
 Muzykoterapia, znana także jako MT, polega na wykorzystaniu muzyki do redukcji stresu, poprawy nastroju i ogólnego stanu zdrowia psychicznego danej osoby. Jest to praktyka oparta na dowodach naukowych, wykorzystująca muzykę jako katalizator do uwalniania "szczęśliwych" hormonów, takich jak oksytocyna. Muzykoterapia wykorzystuje szeroki zakres różnych gatunków muzycznych.
@@ -18,14 +16,14 @@ Zbiór danych został pozyskany z platformy Kaggle i jest dostępny pod adresem:
 - Badani nie byli ograniczeni wiekiem ani lokalizacją.
 - Ankieta była przeprowadzana wśród różnych osób, głównie za pośrednictwem platform takich jak Discord, Reddit i inne media społecznościowe. Plakaty i ulotki były również wykorzystywane do promocji ankiety w bibliotekach, parkach i innych miejscach publicznych.
 
-### Blok 1: Gatunki muzyczne
+### 1: Gatunki muzyczne
 - Respondenci oceniali, jak często słuchają 16 różnych gatunków muzycznych, wybierając jedną z opcji:
   - Nigdy
   - Rzadko
   - Czasami
   - Bardzo często
 
-### Blok 2: Zdrowie psychiczne
+### 2: Zdrowie psychiczne
 - Respondenci oceniali swoje doświadczenia związane z lękiem, depresją, bezsennością i zaburzeniami obsesyjno-kompulsyjnymi na skali od 0 do 10, gdzie:
   - 0 - nie doświadczam tego
   - 10 - Doświadczam tego regularnie, stale lub w skrajnym stopniu
